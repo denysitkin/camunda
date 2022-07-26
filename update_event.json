@@ -1,0 +1,83 @@
+{
+    "correlationKeys": {
+        "cameraId": {
+            "value": 1
+        },
+        "cameraLocationId": {
+            "value": 1
+        }
+    },
+    "messageName": "MESSAGE_FACE_EVENT_UPDATE",
+    "processVariables": {
+        "cameraId": {
+            "value": 1
+        },
+        "cameraLocationId": {
+            "value": 1
+        },
+        "cameraLocationName": {
+            "value": "Surveillance"
+        },
+        "cameraName": {
+            "value": "default_camera"
+        },
+        "departmentId": {
+            "value": null
+        },
+        "departmentName": {
+            "value": null
+        },
+        "doorLockId": {
+            "value": 3
+        },
+        "doorLockName": {
+            "value": "unknown"
+        },
+        "doorLockToken": {
+            "value": "GcSPYDfUp5s6qaJZHh7VB3P6KP3tbeVf"
+        },
+        "doorLockUrl": {
+            "value": "http://192.168.20.128/open/1"
+        },
+        "eventId": {
+            "value": 231
+        },
+        "faceSize": {
+            "value": 0.208626289665699
+        },
+        "faceSizeNext": {
+            "value": 0.0
+        },
+        "firstName": {
+            "value": "Valentyn"
+        },
+        "hasMask": {
+            "value": false
+        },
+        "lastName": {
+            "value": "Liubchenko"
+        },
+        "maskProbability": {
+            "value": 0.00021052088413853198
+        },
+        "moveId": {
+            "value": 317
+        },
+        "probability": {
+            "value": 0.8234589099884033
+        },
+        "profileId": {
+            "value": 2
+        },
+        "shortName": {
+            "value": "LiubchenkoV"
+        },
+        "statusId": {
+            "value": 1
+        },
+        "date": {
+            "value": 1658828069
+        }
+    },
+    "resultEnabled": false
+}
