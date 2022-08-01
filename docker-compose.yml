@@ -1,7 +1,0 @@
-version: '3.6'
-services:
- camunda_traning_denys:
-   image: camunda/camunda-bpm-platform:latest
-   ports:
-   - "8080:8080"
-   restart: unless-stopped
